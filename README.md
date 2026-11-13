@@ -50,3 +50,4 @@ cd GTI411-Lab3_part3_no_webcam
 python background_remover-nocam.py
 ```
 Touches : `ESPACE` pour mettre en pause, `R` pour basculer entre flou et remplacement de fond, `Q` ou `ESC` pour quitter.
+
